@@ -1,0 +1,1 @@
+"""Bliss Mind API application."""
